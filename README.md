@@ -12,9 +12,7 @@ N/A
 
 ## Usage
 
-![screenshot] 
-
-
+![screenshot.](./assets/images/screenshot.png)
 ## Credits
 
 Xander Rapstine 
