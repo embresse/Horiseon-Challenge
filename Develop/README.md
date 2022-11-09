@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-![screenshot](develop/assets/images/screenshot.png)
+![screenshot] 
 
 
 ## Credits
