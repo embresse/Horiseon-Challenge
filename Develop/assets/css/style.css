@@ -87,7 +87,7 @@ p {
     margin-left: 20px;
 }
 
-/* BENEFITS - ASIDE */
+/* BENEFITS - ASIDE, condensed benefits class from indiv IDs*/
 
 .benefits {
     margin-right: 20px;
@@ -116,7 +116,7 @@ p {
     max-width: 150px;
 }
 
-/* RESOURCES SECTION - STYLING */
+/* RESOURCES SECTION - STYLING, condensed resources class from indiv IDs */
 
 .resource {
     margin-bottom: 20px;
